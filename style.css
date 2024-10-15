@@ -1,24 +1,42 @@
 html {
-  background-color: rgb(65, 112, 213);
+  background-color: rgb(0, 238, 255);  
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
-  font-weight: weight;
+  font-weight: 10000;
   font-style: normal;
   height: 100%;
-  width: 100%; 
+  width: 100%;
 }
 
-a{
-  font-style: normal;
-  color: black;
+section {
+  font-size: 15px;
+  color: rgb(0, 0, 0)
+}
+
+nav {
+  font-size: 15px;
+  color: blanchedalmond;
+}
+
+header {
+  font-size: 12px;
+  color: rgb(0, 0, 0)
+}
+
+p {
+  font-size: 12px;
+  color: rgb(0, 0, 0)
+}
+
+#titulo {
+  font-size: "Bebas Neue", sans-serif;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
-html{
-  font-size: 20px;
-  color: white;
-  background-color: red;
-}
 
-#titulo{
-  color: red;
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
